@@ -1,3 +1,5 @@
+package Searching;
+
 
 class Floor_num {
      public static void main(String[] args) {

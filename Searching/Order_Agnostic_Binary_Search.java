@@ -1,3 +1,5 @@
+package Searching;
+
 class Order_Agnostic_Binary_Search{
      public static void main(String[] args) {
           int[] arr = {85,75,43,21,20,15,7,5,3,1,-4,-45,-67};

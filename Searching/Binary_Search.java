@@ -1,5 +1,7 @@
-class Binary_Search{
+package Searching;
 
+class Binary_Search{
+     
      public static void main(String[] args) {
           int[] arr = {-2,3,5,32,55,76,78,98,423};
           int index = binary_search(arr);

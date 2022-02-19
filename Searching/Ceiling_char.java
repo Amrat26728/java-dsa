@@ -1,3 +1,5 @@
+package Searching;
+
 class Ceiling_char {
      public static void main(String[] args) {
           char[] arr = {'c', 'e', 'g', 'i', 'l', 'm'};

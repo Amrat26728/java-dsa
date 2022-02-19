@@ -1,3 +1,5 @@
+package Searching;
+
 class Ceiling_num {
      public static void main(String[] args) {
           int[] arr = {8, 9, 11, 13, 16, 18, 20};

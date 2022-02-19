@@ -1,3 +1,5 @@
+package Searching;
+
 import java.util.Arrays;
 
 class First_And_Last_Pos{
